@@ -104,7 +104,7 @@ p {
 /* END - Benefit aligment box setup*/
 
 /* START - Explanation aligment box setup*/
-.content #explanation {
+.content .explanation {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -113,11 +113,11 @@ p {
     color: #ffffff;
 }
 
-#explanation img {
+.explanation img {
     max-height: 200px;
 }
 
-#explanation h2 {
+.explanation h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
